@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://engineering-design.github.io/'
 languageCode = 'en-us'
 title = 'Dugo'
 theme = 'raditian-free-hugo-theme'
