@@ -1,13 +1,13 @@
 # homepage
 homepage:
   head:
-    title: "engineering-design"
+    title: "Jármű tervezés, Makra Dániel"
 # showcase
 showcase:
   enable: true
-  title: "Hello there"
-  subtitle: "Tervezoiroda"
-  description: "very design much speed such wow very design much speed such wow very design much speed such wow very design much speed such wow "
+  title: "Üdvözöllek honlapomon!"
+  subtitle: "Makra Dániel Tervezőmérnök"
+  #description: "2004 óta dolgozom tervezőként. Az első 10 évet alkalmazottként, majd később egyéni vállalkozóként, mint Járműtervezési műszaki szakértő. Pályám során egyedi járműfelépítményeket terveztem az egyszerűtől a bonyolultig, melyek közül pár a teljesség igénye nélkül"
   image:
     alt: "Showcase tools and blueprint image"
     x: "img/main_tools.jpg"
@@ -18,8 +18,8 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    btnText: "Kapcsolat"
+    URL: "#testimonial"
 
   # socialLinks:
   #   - icon: "linkedin"
@@ -57,19 +57,34 @@ about:
   enable: true
   title: "Bemutatkozás"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    2004 óta dolgozom tervezőként. Az 
+    első 10 évet alkalmazottként, majd egyéni vállalkozóként folytattam tovább, mint 
+    Járműtervezési műszaki szakértő. Pályám során egyedi járműfelépítményeket terveztem az
+    egyszerűtől a bonyolultig, melyek közül pár a teljesség igénye nélkül:
     </p>
+     <ul>
+      <li>
+        <b>felépítmények</b>: ponyvás plató, hűtős, billenő, billenő-darus, állatszállító, gépszállító,
+        mezőgazdasági szerelvény, katonai speciális és multilift felépítmények,
+      </li>
+      <li>
+        <b>pótkocsi</b>: ponyvás, billenős, gabonaszállító, állatszállító, gázszállító,
+      </li>
+      <li>
+        <b>utánfutó</b>: ponyvás, speciális tűzszerész, aggregátorszállító, csónakszállító.
+      </li>
+     </ul>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+      Segítségedre lehetek, 
+      <b>előzetes kalkuláció</b> készítésében, hogy az igényeknek és előírásoknak megfelelő jármű ill. felépítmény szülessen, 
+      <b>kiviteli terv</b>ek készítésében, 
+      <b>forgalomba helyezés</b>hez szükséges engedélyezési <b>dokumentáció</b>k készítésében, 
+      engedélyköteles átalakításhoz <b>átalakítási dokumentáció</b>k készítésében.
     </p>'
   button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    icon: "icon-arrow-right"
+    # btnText: "Kapcsolat"
+    URL: "#testimonial"
   image:
     x: "img/avatar.png"
     _2x: "img/avatar.png"
@@ -117,7 +132,7 @@ experience:
 # Client & Work
 client_and_work:
   title: "Szolgaltatasok"
-  enable: true
+  enable: false
 
   # clients:
   #   - logo:
@@ -187,28 +202,28 @@ client_and_work:
 # testimonial
 testimonial:
   enable: true
-  #title: "Testimonials"
+  title: "Elérhetőségek"
   items:
     - #name: "Daniel Jordan"
-      title: "Felmérés"
-      # position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      title: "makra.daniel@gmail.com"
+      #position: "Phonet, CEO"
+      content: "Email"
       # image:
       #   x: "img/testimonials/daniel-jordan.jpg"
       #   _2x: "img/testimonials/daniel-jordan@2x.jpg"
 
     - #name: "Jonathan Peters"
-      title: "Tervezés"
+      title: "+36 30 409 68 06"
       #position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      content: "Telefon"
       # image:
       #   x: "img/testimonials/jonathan-peters.jpg"
       #   _2x: "img/testimonials/jonathan-peters@2x.jpg"
 
     - #name: "Antonio Willis"
-      title: "Gyártás"
+      title: "Keress bizalommal, akár egy rövid beszélgetés is gondolatébresztő lehet."
       #position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      content: ""
       # image:
       #   x: "img/testimonials/antonio-willis.jpg"
       #   _2x: "img/testimonials/antonio-willis@2x.jpg"
