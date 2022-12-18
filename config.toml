@@ -1,4 +1,4 @@
-baseURL = 'https://engineering-design.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Jármű tervezés, Makra Dániel'
 theme = 'raditian-free-hugo-theme'
