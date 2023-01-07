@@ -21,9 +21,9 @@ showcase:
     btnText: "Kapcsolat"
     URL: "#testimonial"
 
-  # socialLinks:
-  #   - icon: "linkedin"
-  #     URL: "https://www.linkedin.com/company/radity/"
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://hu.linkedin.com/in/d%C3%A1niel-makra-264099255"
 
   #   - icon: "github"
   #     URL: "https://github.com/radity"
@@ -57,31 +57,32 @@ about:
   enable: true
   title: "Bemutatkozás"
   content: '<p class="lead">
-    2004 óta dolgozom tervezőként, az 
-    első 10 évet alkalmazottként, majd egyéni vállalkozóként folytattam tovább, mint 
-    Járműtervezési műszaki szakértő. Pályám során egyedi járműfelépítményeket terveztem az
-    egyszerűtől a bonyolultig, melyek közül pár a teljesség igénye nélkül:
+    2004 óta dolgozom járműtervező mérnökként. Ebből az első 10 évet alkalmazottként, 
+    mellyel megalapoztam járműtervezői tudásomat, majd egyéni vállalkozóként 
+    folytattam tovább, mint Járműtervezési műszaki szakértő. Az évek alatt egyedi 
+    járműfelépítményeket, járműveket terveztem az egyszerűtől a bonyolultig, ezek közül néhány a 
+    teljesség igénye nélkül:
     </p>
      <ul>
       <li>
-        <b>felépítmények</b>: ponyvás plató, hűtős, billenő, billenő-darus, állatszállító, gépszállító,
+        <b>felépítmény terv</b>: ponyvás plató, hűtős, billenő, billenő-darus, állatszállító, gépszállító,
         mezőgazdasági szerelvény, katonai speciális és multilift felépítmények,
       </li>
       <li>
-        <b>pótkocsi</b>: ponyvás, billenős, gabonaszállító, állatszállító, gázszállító,
+        <b>pótkocsi terv</b>: ponyvás, billenős, gabonaszállító, állatszállító, gázszállító,
       </li>
       <li>
-        <b>utánfutó</b>: ponyvás, speciális tűzszerész, aggregátorszállító, csónakszállító.
+        <b>utánfutó terv</b>: síkplatós, ponyvás, speciális tűzszerész, aggregátorszállító, csónakszállító.
       </li>
      </ul>
     <p class="lead">
-      Segítségedre lehetek, 
+      Amiben segítségedre lehetek járműtervezéssel kapcsolatban: 
       <ul>
-        <li><b>előzetes kalkuláció</b> készítésében, hogy az igényeknek és előírásoknak megfelelő jármű ill. 
+        <li><b>előzetes kalkuláció</b> és tervek készítése, hogy az igényeknek és előírásoknak megfelelő jármű ill. 
         felépítmény szülessen,</li>
-        <li><b>kiviteli terv</b>ek készítésében, </li>
-        <li><b>forgalomba helyezés</b>hez szükséges engedélyezési <b>dokumentáció</b>k készítésében, </li>
-        <li>engedélyköteles átalakításhoz <b>átalakítási dokumentáció</b>k készítésében.</li>
+        <li><b>kiviteli terv</b>ek készítése, </li>
+        <li><b>forgalomba helyezés</b>hez szükséges engedélyezési <b>dokumentáció</b>k készítése, </li>
+        <li>engedélyköteles átalakításhoz <b>átalakítási dokumentáció</b>k készítése.</li>
       </ul>
     </p>'
   button:
