@@ -35,6 +35,14 @@ jobs:
 
       - name: Build
         run: hugo --minify
+        
+      - name: Find and Replace title
+        uses: jacobtomlinson/gha-find-replace@v2
+        with:
+          find: "<title></title>"
+          replace: "<title>Járműtervezés - Makra Dániel</title>"
+          include: "public/index.html"
+          regex: false
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
